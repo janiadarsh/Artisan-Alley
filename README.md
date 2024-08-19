@@ -22,6 +22,9 @@ Responsive Design: The website is designed to be fully responsive, ensuring a se
 ## Development Highlights:
 
 Frontend: Developed using React.js, allowing for a modular and maintainable codebase. Implemented state management and routing to handle user interactions and navigation efficiently.
+
 Backend: Built with Node.js and Express.js to handle API requests, manage server-side logic, and connect with the MongoDB database.
+
 Database: Utilized MongoDB for its flexibility and scalability in managing product and user data. Implemented various schemas to organize product details, user information, and order history.
+
 Security: Implemented JWT for secure authentication and authorization, ensuring that user data and transactions are protected.
